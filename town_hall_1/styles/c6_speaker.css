@@ -13,6 +13,7 @@ body {
     margin: 0 auto;
     border: 3px solid #931420;
     background-color: #fffded;
+	width:800px;
 }
 a:focus, a:hover {
 	font-style: italic;
@@ -50,6 +51,9 @@ section {
 	width: 525px;
 	float: right;
 	padding: 0 20px 20px 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
 }
 section h1 {
 	font-size: 150%;
@@ -116,7 +120,7 @@ aside img {
 /* the styles for the footer */
 footer {
 	background-color: #931420;
-	clear: both;
+	clear: float;
 
 }
 footer p {
