@@ -55,6 +55,9 @@ main h1 {
 	padding: .3em 0;
     border-top: 3px solid #931420;
     border-bottom: 3px solid #931420;
+	padding-top:0.5em;
+	padding-bottom: 0.25em; 
+	margin: 0;
 }
 main h2 {
 	color: #800000;
