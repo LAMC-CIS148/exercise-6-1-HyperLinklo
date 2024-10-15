@@ -122,7 +122,8 @@ aside img {
 /* the styles for the footer */
 footer {
 	background-color: #931420;
-}
+	clear:float;
+}	
 footer p {
 	text-align: center;
 	color: white;
