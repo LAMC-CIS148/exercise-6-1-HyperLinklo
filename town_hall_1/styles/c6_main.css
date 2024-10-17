@@ -117,13 +117,15 @@ font-style: italic;
 shadow{
 text-shadow: 2px 2px 2px #800000;
 }
-footer{
-text-align: center;
-background-color: #931420;
-padding-top: 1em;
-padding-bottom: 1em;
-clear: both;
-text-decoration-color: white;
+footer {
+	background-color: #931420;
+	clear:float;
+}	
+footer p {
+	text-align: center;
+	color: white;
+	padding: 1em 0;
+}
 
 }
 article {
