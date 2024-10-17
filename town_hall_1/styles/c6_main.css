@@ -108,13 +108,13 @@ a:hover,a:focus{
 
 font-style: italic;
 }
-.quotes{
+quotes{
 
 padding-right: 2em;
 padding-left: 2em;
 font-style: italic;
 }
-.shadow{
+shadow{
 text-shadow: 2px 2px 2px #800000;
 }
 footer{
