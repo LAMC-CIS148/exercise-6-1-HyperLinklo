@@ -118,13 +118,13 @@ shadow{
 text-shadow: 2px 2px 2px #800000;
 }
 footer {
-	background-color: #931420;
-	clear:float;
-}	
-footer p {
 	text-align: center;
 	color: white;
 	padding: 1em 0;
+}	
+footer p {
+	background-color: #931420;
+	clear:float;
 }
 
 }
